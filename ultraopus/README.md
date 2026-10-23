@@ -1,4 +1,4 @@
-﻿# UltraOpus
+# UltraOpus
 
 Fable 5.5 orchestrates. Opus 5.5 implements and verifies.
 
