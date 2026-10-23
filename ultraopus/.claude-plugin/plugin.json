@@ -1,0 +1,17 @@
+﻿{
+  "name": "ultraopus",
+  "displayName": "UltraOpus",
+  "version": "1.2.0",
+  "description": "Fable 5.5 orchestrates. Opus 5.5 implements and verifies. Plans, work packets, dispatch, and an evidence gate between them.",
+  "author": {
+    "name": "YuntoeOfficial",
+    "email": "YuntoeOfficial@users.noreply.github.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "orchestration",
+    "subagents",
+    "workflow",
+    "verification"
+  ]
+}

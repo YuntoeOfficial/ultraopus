@@ -1,0 +1,34 @@
+﻿{
+  "name": "ultraopus",
+  "owner": {
+    "name": "YuntoeOfficial",
+    "email": "YuntoeOfficial@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Local marketplace for UltraOpus: Fable orchestrates, Opus executes."
+  },
+  "plugins": [
+    {
+      "name": "ultraopus",
+      "source": "./ultraopus",
+      "displayName": "UltraOpus",
+      "description": "Fable 5.5 orchestrates. Opus 5.5 implements and verifies. Plans, work packets, dispatch, and an evidence gate between them.",
+      "version": "1.2.0",
+      "author": {
+        "name": "YuntoeOfficial"
+      },
+      "keywords": [
+        "orchestration",
+        "subagents",
+        "workflow",
+        "verification"
+      ],
+      "category": "workflow",
+      "tags": [
+        "orchestration",
+        "subagents",
+        "workflow"
+      ]
+    }
+  ]
+}
